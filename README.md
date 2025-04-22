@@ -1,10 +1,3 @@
-# 📊 COT 6405 - Graph Algorithms Project
-
-**Course:** COT 6405 - Intro to Theory of Algorithms  
-**Term:** Spring 2023  
-**Project Due Date:** April 24, 11:59 PM  
-**Language:** Python  
-**Dataset:** `imdb_network.csv`  
 
 ## 📌 Project Overview
 
